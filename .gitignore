@@ -1,0 +1,36 @@
+﻿# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio workspace files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Dependencies
+packages/
+project.lock.json
+artifacts/
+.nuget/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Environment files
+.env
+
+# Publish output
+publish/
+
+# Ignore wwwroot (all static files)
+wwwroot/
+
